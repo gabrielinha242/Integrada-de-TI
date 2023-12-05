@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> RA</title>
+
+    <style> 
+        body{
+            background-color: rgb(241, 69, 69);
+        }
+        h1, h2, h3, li {
+            text-align: center;
+        }
+        
+        </style>
+</head>
+<body>
+     <h1> REALIDADE AUMENTADA</h1>
+
+     <li> RA é uma tecnologia que permite sobrepor elementos virtuais à nossa visão da realidade.  </li>
+     <li> O termo foi criado em 1992 pelo cientista e pesquisador Thomas P. Caudell durante o desenvolvimento de um dos aviões mais famosos do mundo: o Boeing 747.</li>
+     <li> Foi em 1992, então, que surgiu o conceito de RA, e não, tal como muitos acreditam, no verão de 2016, quando fomos contagiados pela febre do Pokémon GO, um videogame que o jogador deve procurar e capturar diferentes personagens da saga japonesa.</li>
+     <li> Em seu auge, o game atingiu a marca astronômica de 45 milhões de usuários diários ativos. </li>
+     <li> O Pokémon GO popularizou a RA. Ele aproximou essa tecnologia do grande publico — de todos os públicos —, mas, naquela época, já eram muitas as empresas de diversos setores (saúde, educação, arquitetura, serviços, varejo, etc.) que começavam a utilizá-la com o objetivo de criar experiências de valor para seus clientes.</li>
+
+     <h2> DIFERENÇA ENTRE A REALIDADE AUMENTADA E REALIDADE VIRTUAL</h2>
+
+     <li> Apesar de estarem entrelaçadas, são revoluções diferentes. </li>
+     <li> Enquanto a RV permite criar um mundo virtual do zero com tudo aquilo que quisermos (ou seja, um mundo fantástico), o que a RA faz é adicionar elementos virtuais (informações adicionais em forma de gráficos ou imagens) em nosso ambiente real.</li>
+    
+     <h3> Imagens:
+        <img src="RA.png" width="300px" alt="RA"> </h3>
+        <img src="pokemon go.png" width="300px" alt="GO">
+
+
+</body>
+</html>
