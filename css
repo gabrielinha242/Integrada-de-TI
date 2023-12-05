@@ -1,0 +1,19 @@
+body{
+    background-color: hotpink;
+    color: white;
+}
+
+ul{ 
+display: flex;
+justify-content: space-between;
+list-style-type: none; 
+}
+img{ 
+    width: 150px;
+    height: 150px;
+    border: 50%;
+    border: 5px solid pink;
+}
+.center{ 
+    text-align: center;
+}
